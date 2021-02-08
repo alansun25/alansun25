@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! I'm Alan.
+
+I'm a sophomore at Williams College pursuing a double-major in Computer Science and Statistics. I love creating user-facing apps, and am hoping to find a career in software engineering. 
+
+**What I'm Up To:** Recently, I've been doing a lot of stuff with JavaScript, and have also started learning Ruby. My current goal is to became proficient enough with these languages to create a full-stack app with React and Rails.
+
+Thanks for stopping by!
 
 <!--
 **alansun25/alansun25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
