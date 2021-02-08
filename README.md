@@ -2,7 +2,7 @@
 
 I'm a sophomore at Williams College pursuing a double-major in Computer Science and Statistics. I love creating user-facing apps, and am hoping to find a career in software engineering. 
 
-**What I'm Up To:** Recently, I've been doing a lot of stuff with JavaScript, and have also started learning Ruby. My current goal is to became proficient enough with these languages to create a full-stack app with React and Rails.
+**What I'm Up To:** Recently, I've been doing a lot of stuff with JavaScript, and have also started learning Ruby. My current goal is to become proficient enough with these languages to create a full-stack app with React and Rails.
 
 Thanks for stopping by!
 
