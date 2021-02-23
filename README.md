@@ -1,8 +1,8 @@
 ### Hi! I'm Alan.
 
-I'm a sophomore at Williams College pursuing a double-major in Computer Science and Statistics. I love creating user-facing apps, and am hoping to find a career in software engineering. 
+I'm a sophomore at Williams College pursuing a double-major in Computer Science and Statistics. I love web development and creating user-facing apps, and am hoping to find a career in software engineering. 
 
-**What I'm Up To:** Recently, I've been doing a lot of stuff with JavaScript, and have also started learning Ruby. My current goal is to become proficient enough with these languages to create a full-stack app with React and Rails.
+**What I'm Up To:** Recently, I've been doing a lot of stuff with JavaScript, and have also started learning Ruby. My current goal is to create a full-stack application with React and Rails (I have a pretty rough idea that will combine my interest in software dev and music). I'm also doing work with [Spendlab](https://www.spendlab.org/) as a UI/UX Development Intern, building an expandable note-taking feature for the application.
 
 Thanks for stopping by!
 
