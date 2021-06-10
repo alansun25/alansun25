@@ -1,6 +1,12 @@
 ### Hi! I'm Alan.
 
-I'm a sophomore at Williams College pursuing a double-major in Computer Science and Statistics. I'm currently performing network analysis research on campus and doing a bunch of coding with React and TypeScript. My next priority is to learn Python and/or Node.
+I'm a sophomore at Williams College pursuing a double-major in Computer Science and Statistics.
+
+Currently:
+- Performing network analysis research at Williams (network simulations using R).
+- Doing full stack development at [Algora PBC](https://algora.io/#/) (working with TypeScript, React, and Go)
+- Building a virtual, in-browser study environment (inspired by [Virtual Cottage](https://store.steampowered.com/app/1369320/Virtual_Cottage/)).
+- Learning Python.
 
 Thanks for stopping by!
 
