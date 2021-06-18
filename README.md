@@ -6,6 +6,7 @@ Currently:
 - Performing network analysis research at Williams (network simulations using R).
 - Doing full stack development at [Algora PBC](https://algora.io/#/) (working with TypeScript, React, and Go).
 - Building a virtual, in-browser study environment (inspired by [Virtual Cottage](https://store.steampowered.com/app/1369320/Virtual_Cottage/)).
+- Tracking my basketball shooting workout data to eventually build a dashboard containing visualizations and statistical analyses of my progress.
 - Learning Python.
 
 Thanks for stopping by!
