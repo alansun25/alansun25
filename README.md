@@ -11,7 +11,7 @@ Currently:
 Previously:
 - Software Engineer Intern, [Algora PBC](https://algora.io/#/).
 - Network Analysis Research Assistant, Williams College Statistics Department.
-- UI/UX Development Intern,[Spendlab.org](https://www.spendlab.org/).
+- UI/UX Development Intern, [Spendlab.org](https://www.spendlab.org/).
 
 I'm always looking to collaborate on fun projects! Contact me through my [LinkedIn](https://www.linkedin.com/in/alansun25/) or [email](mailto:mralansun@gmail.com).
 
