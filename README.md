@@ -8,9 +8,9 @@ Currently:
 - Incoming Software Engineer Intern at Microsoft (Summer 2022).
 
 Previously:
-- Software Engineer Intern, [Algora PBC](https://algora.io/#/).
-- Complex Networks Research Assistant, Williams College Statistics Department.
-- User Research Intern, [Spendlab.org](https://www.spendlab.org/).
+- Software Engineer Intern, [Algora PBC](https://algora.io/#/) - Summer 2021.
+- Complex Networks Research Assistant, Williams College Statistics Department - Summer 2021.
+- User Research Intern, [Spendlab.org](https://www.spendlab.org/) - Summer 2020.
 
 I'm always looking to collaborate on fun projects! Contact me through my [LinkedIn](https://www.linkedin.com/in/alansun25/) or [email](mailto:mralansun@gmail.com).
 
