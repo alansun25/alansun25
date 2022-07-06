@@ -3,9 +3,9 @@
 I'm a senior at Williams College studying computer science. I like playing ultimate frisbee :flying_disc:, making music :notes:, and hiking :hiking_boot:.
 
 Currently:
-- Working at Microsoft as a SWE intern.
-- Building my [Spotify Artist Radar](https://github.com/alansun25/spotify-artist-radar) and [audio EQ](https://github.com/alansun25/audio-equalizer).
-- Exploring the Pacific Northwest.
+- :computer: Working at Microsoft as a software engineer intern.
+- :hammer: Building my [Spotify Artist Radar](https://github.com/alansun25/spotify-artist-radar) and [audio EQ](https://github.com/alansun25/audio-equalizer) plugin.
+- :mountain: Exploring the Pacific Northwest (most recently North Cascades National Park).
 
 Previously:
 - Software Engineer Intern, [Algora PBC](https://algora.io/#/) - Summer 2021.
