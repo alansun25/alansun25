@@ -1,16 +1,16 @@
 ### Hi! I'm Alan.
 
-I'm a senior at Williams College studying computer science. I like playing ultimate frisbee :flying_disc:, making music :notes:, and hiking :hiking_boot:.
+I'm a senior at Williams College studying computer science. I play ultimate frisbee :flying_disc: and (sometimes) make music :notes:.
 
 Currently:
-- :computer: Working at Microsoft as a software engineer intern.
-- :hammer: Building my [Spotify Artist Radar](https://github.com/alansun25/spotify-artist-radar) and [audio EQ](https://github.com/alansun25/audio-equalizer) plugin.
-- :mountain: Exploring the Pacific Northwest (most recently North Cascades National Park).
+- :books: Taking classes in artificial intelligence, computer graphics, formal linguistics, and sound art.
+- :hammer: Building my [Spotify Artist Radar](https://github.com/alansun25/spotify-artist-radar).
+- :shushing_face: Working on a secret (perhaps musical) project.
 
 Previously:
-- Software Engineer Intern, [Algora PBC](https://algora.io/#/) - Summer 2021.
-- Complex Networks Research Assistant, Williams College Statistics Department - Summer 2021.
-- User Research Intern, [Spendlab.org](https://www.spendlab.org/) - Summer 2020.
+- Interned at Microsoft and did full-stack work on an M365 data analytics platform (Summer 2022).
+- Helped revamp the frontend and UX for [Algora's](https://algora.io/#/) web app (Summer 2021).
+- Conducted user interviews and suggested new features for [Spendlab](https://www.spendlab.org/) (Summer 2020).
 
 I'm always looking to collaborate on fun projects! Contact me through my [LinkedIn](https://www.linkedin.com/in/alansun25/) or [email](mailto:mralansun@gmail.com).
 
