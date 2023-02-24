@@ -1,11 +1,11 @@
 ### Hi! I'm Alan.
 
-I'm a senior at Williams College studying computer science. I play ultimate frisbee :flying_disc: and (sometimes) make music :notes:.
+I'm a senior at Williams College studying computer science. I play ultimate frisbee :flying_disc: and make music :notes:.
 
 Currently:
-- :books: Taking classes in artificial intelligence, computer graphics, formal linguistics, and sound art.
+- :books: Taking classes in NLP, Data Mining, Japanese History, and Zen Literature.
 - :hammer: Building my [Spotify Artist Radar](https://github.com/alansun25/spotify-artist-radar).
-- :shushing_face: Working on a secret (perhaps musical) project.
+- 🎹 Working on a hyperpop project.
 
 Previously:
 - Interned at Microsoft and did full-stack work on an M365 data analytics platform (Summer 2022).
