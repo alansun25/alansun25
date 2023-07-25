@@ -1,6 +1,6 @@
 ### Hi! I'm Alan.
 
-I'm a software engineer at Microsoft and a recent graduate of Williams College. I love ultimate frisbee :flying_disc:, traveling ✈️, and music 🎶.
+I'm a SWE at Microsoft and a recent graduate of Williams College. I love ultimate frisbee :flying_disc:, traveling ✈️, and music 🎶.
 
 Currently:
 - 🗻 Thinking about my recent trip to Asia (Seoul 🇰🇷 → Yantai 🇨🇳 → Tokyo/Osaka/Kyoto/Nara 🇯🇵 → Hong Kong 🇭🇰).
