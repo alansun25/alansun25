@@ -1,6 +1,6 @@
 ### Hi! I'm Alan.
 
-I'm a software engineer at Microsoft working on Copilot analytics. I love basketball, traveling , and reading.
+I'm a software engineer at Microsoft working on Copilot analytics. I love basketball, traveling, and reading.
 
 What I'm building:
 - [Syncify](https://github.com/alansun25/spotify-artist-radar).
