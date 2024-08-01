@@ -3,7 +3,7 @@
 I'm a software engineer at Microsoft working on Copilot analytics. I love basketball, traveling, and reading.
 
 What I'm building:
-- [Syncify](https://github.com/alansun25/spotify-artist-radar).
+- [Syncify](https://github.com/alansun25/spotify-artist-radar)
 - Breadbox (TBD)
 
 Books I've read recently:
