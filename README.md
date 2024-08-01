@@ -1,16 +1,15 @@
 ### Hi! I'm Alan.
 
-I'm a SWE at Microsoft and a recent graduate of Williams College. I love ultimate frisbee :flying_disc:, traveling ✈️, and music 🎶.
+I'm a software engineer at Microsoft working on Copilot analytics. I love basketball, traveling , and reading.
 
-Currently:
-- 🗻 Thinking about my recent trip to Asia (Seoul 🇰🇷 → Yantai 🇨🇳 → Tokyo/Osaka/Kyoto/Nara 🇯🇵 → Hong Kong 🇭🇰).
-- :hammer: Building my [Spotify Artist Radar](https://github.com/alansun25/spotify-artist-radar).
-- 🎧 Working on a hyperpop project.
+What I'm building:
+- [Syncify](https://github.com/alansun25/spotify-artist-radar).
+- Breadbox (TBD)
 
-Previously:
-- Interned at Microsoft and did full-stack work on an M365 data analytics platform (Summer 2022).
-- Helped revamp the frontend and UX for [Algora's](https://algora.io/#/) web app (Summer 2021).
-- Conducted user interviews and suggested new features for [Spendlab](https://www.spendlab.org/) (Summer 2020).
+Books I've read recently:
+- Severance by Ling Ma (currently reading)
+- Crying in H Mart by Michelle Zauner
+- Goodnight Tokyo by Atsuhiro Yoshida
 
 I'm always looking to collaborate on fun projects! Contact me through my [LinkedIn](https://www.linkedin.com/in/alansun25/) or [email](mailto:alansun.dev@gmail.com).
 
