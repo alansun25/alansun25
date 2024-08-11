@@ -8,8 +8,8 @@ What I'm building:
 
 Books I've read recently:
 - Severance by Ling Ma (currently reading)
-- Crying in H Mart by Michelle Zauner
-- Goodnight Tokyo by Atsuhiro Yoshida
+- Crying in H Mart by Michelle Zauner (5 / 5 🌟)
+- Goodnight Tokyo by Atsuhiro Yoshida (3.5 / 5 🌟)
 
 I'm always looking to collaborate on fun projects! Contact me through my [LinkedIn](https://www.linkedin.com/in/alansun25/) or [email](mailto:alansun.dev@gmail.com).
 
