@@ -4,7 +4,6 @@ I'm a software engineer at Microsoft working on Copilot analytics. I love basket
 
 What I'm building:
 - Breadbox
-- Syncify
 
 Books I've read recently:
 - Severance by Ling Ma (currently reading)
