@@ -1,6 +1,6 @@
-### Hi! I'm Alan.
+### Hi, I'm Alan.
 
-I'm an applied scientist at Microsoft working on M365 Copilot evaluation tools. I love basketball, traveling, and reading.
+I'm a Machine Learning Engineer at Microsoft working on post-training and evaluating frontier and open-source models. I love basketball, traveling, and reading.
 
 I'm always looking to collaborate on fun projects! Contact me through my [LinkedIn](https://www.linkedin.com/in/alansun25/) or [email](mailto:alansun.dev@gmail.com).
 
